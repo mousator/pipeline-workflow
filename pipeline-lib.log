@@ -1,0 +1,9 @@
+20:23:09,649  INFO Workflow:48 - waiting to finish jobs, #active jobs: 1
+20:23:10,655  INFO Workflow:58 - Workflow ended, took 0.042 seconds, total processing time took 0.175
+20:23:10,656  INFO Workflow:61 - Total processing time for each worker:
+20:23:10,656  INFO Workflow:66 - 	: 0.029, 69%
+20:23:10,657  INFO Workflow:66 - 	: 0.033, 78%
+20:23:10,657  INFO Workflow:66 - 	: 0.031, 73%
+20:23:10,664  INFO Workflow:66 - 	: 0.029, 69%
+20:23:10,664  INFO Workflow:66 - 	: 0.04, 95%
+20:23:10,666  INFO Workflow:66 - 	: 0.0010, 2%
